@@ -1,4 +1,4 @@
-# RESIN reproduction guide
+# RESIN Guide
 
 Run commands from the `RESIN_submit` directory. The generation model is
 `gpt-5-nano`. The standalone RAGAS evaluator reports Answer Relevancy (AR) and
